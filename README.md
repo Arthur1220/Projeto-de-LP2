@@ -5,7 +5,7 @@ Projeto final avaliativo feito na disciplina de Linguagem de Programação 2
 
 Bem vindo ao 'MyMovieList', o programa de entretenimento acessivel a todos. 
 Nele voce pode: ter acesso ao catalogo, fazer buscas por categorias ou itens
-especificos, adicionar item ao catalogo, modificarnotas e excluir itens.
+especificos, adicionar item ao catalogo, modificar notas e excluir itens.
 
 Aproveite o nosso servico!
 
